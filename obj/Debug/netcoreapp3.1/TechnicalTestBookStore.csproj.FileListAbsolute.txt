@@ -1,0 +1,13 @@
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\bin\Debug\netcoreapp3.1\TechnicalTestBookStore.exe
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\bin\Debug\netcoreapp3.1\TechnicalTestBookStore.deps.json
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\bin\Debug\netcoreapp3.1\TechnicalTestBookStore.runtimeconfig.json
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\bin\Debug\netcoreapp3.1\TechnicalTestBookStore.runtimeconfig.dev.json
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\bin\Debug\netcoreapp3.1\TechnicalTestBookStore.dll
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\bin\Debug\netcoreapp3.1\TechnicalTestBookStore.pdb
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\obj\Debug\netcoreapp3.1\TechnicalTestBookStore.csprojAssemblyReference.cache
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\obj\Debug\netcoreapp3.1\TechnicalTestBookStore.AssemblyInfoInputs.cache
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\obj\Debug\netcoreapp3.1\TechnicalTestBookStore.AssemblyInfo.cs
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\obj\Debug\netcoreapp3.1\TechnicalTestBookStore.csproj.CoreCompileInputs.cache
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\obj\Debug\netcoreapp3.1\TechnicalTestBookStore.dll
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\obj\Debug\netcoreapp3.1\TechnicalTestBookStore.pdb
+C:\Users\Ashok.Tewatia\source\repos\TechnicalTestBookStore\obj\Debug\netcoreapp3.1\TechnicalTestBookStore.genruntimeconfig.cache
